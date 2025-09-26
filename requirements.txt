@@ -1,0 +1,12 @@
+flask==2.3.3
+flask-sqlalchemy==3.1.1
+werkzeug==2.3.7
+flask-login==0.6.2
+email-validator==2.1.0
+gunicorn==21.2.0
+# psycopg2-binary==2.9.9 # Removed for SQLite
+oauthlib==3.2.2
+flask-dance==7.0.0
+pyjwt==2.8.0
+reportlab==4.0.8
+sendgrid==6.10.0
